@@ -1,0 +1,96 @@
+Number of threads OMP_NUM_THREADS=1
+Time taken for matrix addition: 197.963 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=2
+Time taken for matrix addition: 105.369 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=3
+Time taken for matrix addition: 76.8167 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=4
+Time taken for matrix addition: 58.2399 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=5
+Time taken for matrix addition: 48.191 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=6
+Time taken for matrix addition: 51.2912 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=7
+Time taken for matrix addition: 40.8776 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=8
+Time taken for matrix addition: 40.7623 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=9
+Time taken for matrix addition: 35.9885 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=10
+Time taken for matrix addition: 41.4963 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=11
+Time taken for matrix addition: 32.2286 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=12
+Time taken for matrix addition: 31.9164 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=13
+Time taken for matrix addition: 30.5309 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=14
+Time taken for matrix addition: 29.5129 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=15
+Time taken for matrix addition: 28.0853 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=16
+Time taken for matrix addition: 32.202 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=17
+Time taken for matrix addition: 27.5567 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=18
+Time taken for matrix addition: 25.9982 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=19
+Time taken for matrix addition: 25.1383 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=20
+Time taken for matrix addition: 25.306 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=21
+Time taken for matrix addition: 25.1137 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=22
+Time taken for matrix addition: 22.3051 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=23
+Time taken for matrix addition: 23.4052 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=24
+Time taken for matrix addition: 22.0538 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=25
+Time taken for matrix addition: 24.6164 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=26
+Time taken for matrix addition: 24.0765 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=27
+Time taken for matrix addition: 23.4045 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=28
+Time taken for matrix addition: 22.3355 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=29
+Time taken for matrix addition: 22.8659 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=30
+Time taken for matrix addition: 16.7381 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=31
+Time taken for matrix addition: 12.722 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=32
+Time taken for matrix addition: 13.848 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=33
+Time taken for matrix addition: 24.1214 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=34
+Time taken for matrix addition: 14.0165 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=35
+Time taken for matrix addition: 14.8995 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=36
+Time taken for matrix addition: 16.4036 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=37
+Time taken for matrix addition: 16.4814 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=38
+Time taken for matrix addition: 22.8581 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=39
+Time taken for matrix addition: 22.9001 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=40
+Time taken for matrix addition: 22.0009 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=41
+Time taken for matrix addition: 16.4637 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=42
+Time taken for matrix addition: 21.9673 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=43
+Time taken for matrix addition: 21.0215 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=44
+Time taken for matrix addition: 17.0635 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=45
+Time taken for matrix addition: 14.8027 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=46
+Time taken for matrix addition: 16.5344 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=47
+Time taken for matrix addition: 10.3598 seconds for size: 100000
+Number of threads OMP_NUM_THREADS=48
+Time taken for matrix addition: 15.0141 seconds for size: 100000

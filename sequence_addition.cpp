@@ -47,4 +47,4 @@ int main() {
 
 // Compile with: g++ -fopenmp sequence_addition.cpp -o sequence_addition
 // Time taken for matrix addition: 0.415228 seconds for size: 5000
-// Time taken for matrix addition: 344.565 seconds for size: 120000
+// ime taken for matrix addition: 219.82 seconds for size: 100000
