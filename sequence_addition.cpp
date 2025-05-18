@@ -5,7 +5,7 @@
 #include <vector>
 
 // Constants
-int size = 25000;
+int size = 100000;
 
 
 // Global matrices
@@ -48,3 +48,4 @@ int main() {
 // Compile with: g++ -fopenmp sequence_addition.cpp -o sequence_addition
 // Time taken for matrix addition: 0.415228 seconds for size: 5000
 // ime taken for matrix addition: 219.82 seconds for size: 100000
+// Time taken for matrix addition: 335.205 seconds for size: 125000
