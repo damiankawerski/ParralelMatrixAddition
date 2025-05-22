@@ -5,7 +5,7 @@
 #SBATCH -J matrices
 #SBATCH -o matrices_times.txt 
 
-g++ -fopenmp sequence_addition.cpp -o sequence_addition
+g++ -fopenmp omp_addition.cpp -o omp_addition
 
 for i in {1..48} 
 do  
